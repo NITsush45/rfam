@@ -7,7 +7,7 @@ This repository contains a Python script (`rfam_queries.py`) that connects to th
 
 Below is a screenshot showing the successful execution of the script and the query outputs fetched from the public Rfam MySQL database.
 
-![Rfam Query Results](screenshot/Screenshot 2025-12-14 185935.png)
+screenshot/Screenshot 2025-12-14 185935.png
 
 
 ## 📌 Database Details
